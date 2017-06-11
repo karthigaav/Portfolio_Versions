@@ -1,0 +1,40 @@
+* {
+   outline: 1px solid red !important;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.app {
+  display: flex;
+}
+
+h1{
+  margin-bottom: 5%;
+  border-width: 10%;
+
+}
+
+.description
+{
+	margin-left: 2%; 
+}
+
+body {
+	margin-top: 15%;
+	margin-left: 15%;
+	margin-right: 15%;
+	}
+
+.title 
+{
+	  background-color: #33BEBE;
+       border-width: 30%;
+}
+
+
+
