@@ -1,0 +1,44 @@
+
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+*{
+	font-family: 'Lato', sans-serif;
+
+}
+
+@media only screen and (max-width: 300px)
+
+{
+	p
+	
+	{
+		background-color: blue;
+	}
+}
+
+.row {
+	width: 100%;
+	display:flex;
+	flex-wrap: wrap;
+}
+
+.col-6{
+	width: 50%;
+}
+
+.col-4{
+	width: 33.33%;
+}
+
+
+.col-12{
+	width: 100%;
+}
+
+
